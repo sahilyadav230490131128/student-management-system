@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: student-Management
+  datasource:
+    url: jdbc:mysql://localhost:3307/student_Management?createDatabaseIfNotExist=true
+    username: root
+    password: 230490131128$@hil
+  jpa:
+    show-sql: true
